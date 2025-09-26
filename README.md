@@ -1,4 +1,4 @@
-# 🚀 Solana Trading Bot Dashboard
+# 🚀 Solana Trading Bot
 
 A full-stack Node.js trading automation bot and visualization dashboard for tracking any Pair on **Raydium Pools** and **market cap**, executing buy orders on **Raydium**, and monitoring thresholds in real-time.
 
